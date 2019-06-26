@@ -1,0 +1,1 @@
+first go to .minecraft/mods/  and paste mod234 thereand use mod in 1.12
